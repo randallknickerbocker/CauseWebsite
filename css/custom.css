@@ -1,0 +1,65 @@
+body{
+	 background:black;
+}
+
+
+
+#banner{
+	background:white;
+    width:100%;
+    height:20%;
+    font-size:40pt;
+    color:orange;
+}
+
+
+#box{
+	width:20%;
+    height:50%;
+    background:orange;
+    color:white;
+    font-size: 24pt;
+    text-align:center;
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 500px;
+  }  
+ 
+ .my_content_container{
+ 	background: yellow;
+    font-size:20pt;
+    font-family: sans-serif;
+    letter-spacing:2px;
+ }
+
+a:link {
+    color:red;
+    background-color:white;
+}
+
+
+
+
+
+footer{
+	text-align:center;
+    padding-top:5%;
+    background-color:white;
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+    
+    
